@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["iLi", "iLi", "LiL"],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "L": {
+      "item": "minecraft:bamboo_block"
+    }
+  },
+  "result": {
+    "id": "minecraft:hopper",
+    "count": 1
+  },
+  "group": "skip_hopper"
+}

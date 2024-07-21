@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["  X", "XXX", "XXX"],
+  "key": {
+    "X": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "id": "minecraft:leather_horse_armor",
+    "count": 1
+  }
+}
