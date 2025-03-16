@@ -1,8 +1,6 @@
 {
   "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "minecraft:cyan_concrete"
-  },
+  "ingredient": ["minecraft:cyan_concrete"],
   "result": {
     "id": "minecraft:cyan_concrete_powder"
   },

@@ -2,21 +2,12 @@
   "type": "minecraft:crafting_shaped",
   "pattern": ["GTG", "GAG", "GDG"],
   "key": {
-    "G": {
-      "item": "minecraft:gold_block"
-    },
-    "T": {
-      "item": "minecraft:totem_of_undying"
-    },
-    "A": {
-      "item": "minecraft:apple"
-    },
-    "D": {
-      "item": "minecraft:dragon_breath"
-    }
+    "G": ["minecraft:gold_block"],
+    "T": ["minecraft:totem_of_undying"],
+    "A": ["minecraft:apple"],
+    "D": ["minecraft:dragon_breath"]
   },
   "result": {
-    "id": "minecraft:enchanted_golden_apple",
-    "count": 1
+    "id": "minecraft:enchanted_golden_apple"
   }
 }

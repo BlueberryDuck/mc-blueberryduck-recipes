@@ -1,11 +1,8 @@
 {
   "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:dark_oak_log"
-  },
+  "ingredient": ["minecraft:dark_oak_log"],
   "result": {
-    "id": "minecraft:stripped_dark_oak_log",
-    "count": 1
+    "id": "minecraft:stripped_dark_oak_log"
   },
   "group": "strip_log"
 }

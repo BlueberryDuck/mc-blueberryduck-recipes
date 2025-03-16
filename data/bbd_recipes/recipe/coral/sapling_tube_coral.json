@@ -1,16 +1,8 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "minecraft:oak_sapling"
-    },
-    {
-      "item": "minecraft:water_bucket"
-    }
-  ],
+  "ingredients": [["minecraft:oak_sapling"], ["minecraft:water_bucket"]],
   "result": {
-    "id": "minecraft:tube_coral",
-    "count": 1
+    "id": "minecraft:tube_coral"
   },
   "group": "sapling_to_coral"
 }

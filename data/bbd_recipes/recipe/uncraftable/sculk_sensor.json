@@ -2,18 +2,11 @@
   "type": "minecraft:crafting_shaped",
   "pattern": ["G G", "ERE"],
   "key": {
-    "G": {
-      "item": "minecraft:glow_ink_sac"
-    },
-    "E": {
-      "item": "minecraft:ender_pearl"
-    },
-    "R": {
-      "item": "minecraft:repeater"
-    }
+    "G": ["minecraft:glow_ink_sac"],
+    "E": ["minecraft:ender_pearl"],
+    "R": ["minecraft:repeater"]
   },
   "result": {
-    "id": "minecraft:sculk_sensor",
-    "count": 1
+    "id": "minecraft:sculk_sensor"
   }
 }

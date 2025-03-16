@@ -1,17 +1,12 @@
 {
   "type": "minecraft:crafting_shaped",
-  "pattern": ["iFi", "iii"],
+  "group": "minecarts",
+  "pattern": ["iBi", "iii"],
   "key": {
-    "i": {
-      "item": "minecraft:iron_ingot"
-    },
-    "F": {
-      "item": "minecraft:furnace"
-    }
+    "i": ["minecraft:iron_ingot"],
+    "B": ["minecraft:furnace"]
   },
   "result": {
-    "id": "minecraft:furnace_minecart",
-    "count": 1
-  },
-  "group": "minecarts"
+    "id": "minecraft:furnace_minecart"
+  }
 }

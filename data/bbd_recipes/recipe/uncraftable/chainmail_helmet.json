@@ -2,12 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "pattern": ["XXX", "X X"],
   "key": {
-    "X": {
-      "item": "minecraft:chain"
-    }
+    "X": ["minecraft:chain"]
   },
   "result": {
-    "id": "minecraft:chainmail_helmet",
-    "count": 1
+    "id": "minecraft:chainmail_helmet"
   }
 }

@@ -1,15 +1,7 @@
 {
   "type": "minecraft:crafting_shapeless",
-  "ingredients": [
-    {
-      "item": "minecraft:vine"
-    },
-    {
-      "item": "minecraft:glowstone_dust"
-    }
-  ],
+  "ingredients": [["minecraft:vine"], ["minecraft:glowstone_dust"]],
   "result": {
-    "id": "minecraft:glow_lichen",
-    "count": 1
+    "id": "minecraft:glow_lichen"
   }
 }

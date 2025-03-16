@@ -2,12 +2,9 @@
   "type": "minecraft:crafting_shaped",
   "pattern": ["  X", "XXX", "XXX"],
   "key": {
-    "X": {
-      "item": "minecraft:leather"
-    }
+    "X": ["minecraft:leather"]
   },
   "result": {
-    "id": "minecraft:leather_horse_armor",
-    "count": 1
+    "id": "minecraft:leather_horse_armor"
   }
 }

@@ -1,1 +1,0 @@
-tellraw @a [{"text":"BlueberryDuck's Additional Recipes Datapack loaded successfully!","color":"blue"}]

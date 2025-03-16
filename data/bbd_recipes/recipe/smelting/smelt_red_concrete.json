@@ -1,8 +1,6 @@
 {
   "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "minecraft:red_concrete"
-  },
+  "ingredient": ["minecraft:red_concrete"],
   "result": {
     "id": "minecraft:red_concrete_powder"
   },

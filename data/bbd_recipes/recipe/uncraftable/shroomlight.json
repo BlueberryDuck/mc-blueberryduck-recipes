@@ -2,15 +2,10 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [" g ", "gMg", " g "],
   "key": {
-    "g": {
-      "item": "minecraft:glowstone_dust"
-    },
-    "M": {
-      "item": "minecraft:mushroom_stem"
-    }
+    "g": ["minecraft:glowstone_dust"],
+    "M": ["minecraft:mushroom_stem"]
   },
   "result": {
-    "id": "minecraft:shroomlight",
-    "count": 1
+    "id": "minecraft:shroomlight"
   }
 }

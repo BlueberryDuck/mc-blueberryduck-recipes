@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": [
+    "minecraft:crimson_stem",
+    "minecraft:stripped_crimson_stem",
+    "minecraft:warped_stem",
+    "minecraft:stripped_warped_stem",
+    "minecraft:crimson_hyphae",
+    "minecraft:stripped_crimson_hyphae",
+    "minecraft:warped_hyphae",
+    "minecraft:stripped_warped_hyphae"
+  ],
+  "result": {
+    "id": "minecraft:charcoal"
+  },
+  "experience": 0.15,
+  "cookingtime": 200
+}

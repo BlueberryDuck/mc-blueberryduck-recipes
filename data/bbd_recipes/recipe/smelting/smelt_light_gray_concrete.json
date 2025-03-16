@@ -1,8 +1,6 @@
 {
   "type": "minecraft:smelting",
-  "ingredient": {
-    "item": "minecraft:light_gray_concrete"
-  },
+  "ingredient": ["minecraft:light_gray_concrete"],
   "result": {
     "id": "minecraft:light_gray_concrete_powder"
   },
